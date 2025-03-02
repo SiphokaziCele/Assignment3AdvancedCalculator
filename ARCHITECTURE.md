@@ -38,14 +38,14 @@ Given the increasing prevalence of web technologies like HTML, CSS, and JavaScri
     backend -->|Sends email notifications| emailService[Email Service];
     frontend[Mobile App] -->|Connects to| backend;
     backend -->|Interacts with| taskManager[Task Management Service];
-
 %% Component Diagram
     backend[Backend API] -->|Handles tasks| taskService[Task Service];
     backend -->|Handles users| userService[User Service];
     taskService -->|Reads and writes tasks| taskDB[(Task Database)];
     userService -->|Reads and writes user data| userDB[(User Database)];
     backend -->|Authentication| authService[Authentication Service];
- [View the C4 Diagrams in Mermaid Live Editor](https://www.mermaidchart.com/app/projects/ac19d35b-57d7-4e57-bfd8-c5bb398d3655/diagrams/49347f9c-40ed-4388-a153-c0fb89caae92/version/v0.1/edit ).
+ [View the C4 Diagrams in Mermaid Live Editor](https://www.mermaidchart.com/app/projects/ac19d35b-57d7-4e57-bfd8-c5bb398d3655/diagrams/49347f9c-40ed-4388-a153-c0fb89caae92/version/v0.1/edit ). 
+  [Diagrams](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/blob/main/Untitled%20diagram-2025-03-02-172106.png)
 
 ## ERD DIAGRAM:
 ```mermaid
