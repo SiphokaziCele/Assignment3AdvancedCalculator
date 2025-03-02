@@ -3,5 +3,7 @@ Project Title: Advanced Calculator System
 
 Description: A web-based calculator that supports basic and advanced operations like addition, subtraction, multiplication, division, exponentiation, and logarithms. 
 Links to:
+    [SPECIFICATIONS.md](SPECIFICATIONS.md)
+
     SPECIFICATION.md
     ARCHITECTURE.md
