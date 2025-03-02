@@ -1,5 +1,7 @@
 Introduction
 
+The Advanced Calculator System is a web-based application designed to address the need for a versatile calculator that offers features beyond basic arithmetic, such as history tracking, unit conversions, and graphing capabilities. Built using HTML, CSS, and JavaScript, this lightweight tool aims to enhance productivity and education by providing an easily accessible solution from any device. With minimal computational requirements and the efficient handling of operations through JavaScript, the system ensures high feasibility and usability, catering to users seeking advanced functionality in a simple, web-based format.
+
     Project Title: Advanced Calculator System
     
     Domain: Education & Productivity
