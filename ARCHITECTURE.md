@@ -49,11 +49,7 @@ Given the increasing prevalence of web technologies like HTML, CSS, and JavaScri
  
 
 
-
-
-
-
-
+## ERD DIAGRAM:
 ```mermaid
 erDiagram
     USER ||--o{ CALCULATION : performs
