@@ -5,6 +5,10 @@ Description: A web-based calculator that supports basic and advanced operations 
 Links to:
     [Specifications.md](Specifications.md)
     [ARCHITECTURE.md](ARCHITECTURE.md)
+    [Reflections.md](Reflections.md)
+    [Stakeholder_Analysis.md](Stakeholder_Analysis.md)
+    [System_Requirements.md](System_Requirements.md)
+
 
 
 
