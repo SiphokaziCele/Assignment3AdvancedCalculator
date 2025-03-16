@@ -94,4 +94,4 @@
   3. System prompts the user to download.
 - **Alternative Flow:**
   - If no history exists, system notifies the user.
-
+![Use Case Diagram](UseCaseDiagram.png)
