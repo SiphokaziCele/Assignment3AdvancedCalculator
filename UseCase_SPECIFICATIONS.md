@@ -110,10 +110,16 @@ The Calculator System is a web-based application that provides basic and advance
 - **Alternative Flow:**
   - If no history exists, system notifies the user.
 
-## UML Diagram
+## Use Case Diagram
 
 A **Use Case Diagram** for this Calculator System is provided below. It shows the interactions between the actors and the system’s functionalities.
 
 ![Use Case Diagram](UseCaseDiagram.png)
+
+## **Use Case Diagram Link to Mermaid.js**
+
+![Use Case Diagram](https://www.mermaidchart.com/app/projects/ac19d35b-57d7-4e57-bfd8-c5bb398d3655/diagrams/735bcc0a-d0ca-41b1-b83b-5a4ac1123f1d/version/v0.1/edit)
+
+
 
 
