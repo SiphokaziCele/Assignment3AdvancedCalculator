@@ -4,7 +4,7 @@
 | T-002 | Create UI for calculator | UI Team | 6 | In Progress |
 
 Sprint Goal Statement:
-"This sprint focuses on implementing the core features for basic calculations, calculation history tracking, unit conversions, and essential UI improvements. These functionalities are vital for the Minimum Viable Product (MVP) as they enable users to perform basic and advanced calculations, store and view their calculation history, and convert units. By the end of the sprint, we will have the foundational features that provide immediate value to users and align with the core mission of the application, ensuring that users can perform essential tasks with ease, even with a minimal set of features."
+This sprint focuses on implementing the core features for basic calculations, calculation history tracking, unit conversions, and essential UI improvements. These functionalities are vital for the Minimum Viable Product (MVP) as they enable users to perform basic and advanced calculations, store and view their calculation history, and convert units. By the end of the sprint, we will have the foundational features that provide immediate value to users and align with the core mission of the application, ensuring that users can perform essential tasks with ease, even with a minimal set of features.
 
 How it contributes to the MVP:
 Core Features: The basic calculation and history tracking functionalities are essential to the MVP, ensuring that users can perform fundamental tasks right away.
