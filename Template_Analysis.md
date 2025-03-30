@@ -22,6 +22,22 @@
 - Best suited for **Agile workflows**, ensuring smooth progress tracking.  
 
 ---
+## Templates Screenshots
+
+### **Automated Kanban Template Picture**
+![Kanbas Image](https://raw.githubusercontent.com/SiphokaziCele/Assignment3AdvancedCalculator/main/KanbanPic1.png)
+
+### **Iterative Development Template Picture**
+
+![Kanbas Image](https://raw.githubusercontent.com/SiphokaziCele/Assignment3AdvancedCalculator/main/IterativeDevelopment.png)
+
+### **Bug Triage Template Picture**
+
+![Kanbas Image](https://raw.githubusercontent.com/SiphokaziCele/Assignment3AdvancedCalculator/main/BugTriage.png)
+
+### **Team Planning Template Picture**
+
+![Kanbas Image](https://raw.githubusercontent.com/SiphokaziCele/Assignment3AdvancedCalculator/main/TeamPlanning.png)
 
 
 
