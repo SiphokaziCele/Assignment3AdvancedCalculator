@@ -2,12 +2,14 @@
 
 ## Templates Comparison  
 
-| Template Name        | Columns & Workflow                          | Automation Features                | Agile Suitability                      |
-|----------------------|--------------------------------------------|-------------------------------------|----------------------------------------|
-| **Basic Kanban**     | To Do, In Progress, Done                   | No automation                      | Simple and manual; suitable for small projects |
-| **Automated Kanban** | New, In Progress, Review, Done             | Auto-moves issues when updated     | Ideal for sprint tracking and iterative work |
-| **Bug Triage**       | New Issues, High Priority, In Progress, Done | Auto-labels and sorts bug reports | Best for bug tracking and issue management |
-| **Team Planning**    | Backlog, To Do, In Progress, Done          | Automates backlog organization     | Good for structured Agile team workflows |
+### GitHub Project Template Analysis
+
+| Template Name              | Columns & Workflow                                | Automation Features                        | Agile Suitability                                                                 |
+|----------------------------|--------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------|
+| **Automated Kanban**        | New, In Progress, Review, Done                   | Auto-moves issues when updated            | Ideal for sprint tracking and iterative work.                                      |
+| **Bug Triage**              | New Issues, High Priority, In Progress, Done     | Auto-labels and sorts bug reports         | Best for bug tracking and issue management.                                        |
+| **Team Planning**           | Backlog, To Do, In Progress, Done                | Automates backlog organization           | Good for structured Agile team workflows.                                          |
+| **Iterative Development**   | Backlog, To Do, In Progress, Review, Done       | Auto-moves issues and prioritizes work for iterations | Specifically designed for **iterative development**, helping teams organize and track work in short, repeatable sprints, supporting continuous feedback and delivery. |
 
 ---
 
