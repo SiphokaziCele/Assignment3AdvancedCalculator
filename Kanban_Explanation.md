@@ -55,3 +55,8 @@ d) Faster problem-solving – Blocked tasks are identified early.
 ## Kanban Screenshots
 ![Kanbas Image](https://raw.githubusercontent.com/SiphokaziCele/Assignment3AdvancedCalculator/main/KanbasFull.jpg)
 
+![Kanbas Half Image](https://raw.githubusercontent.com/SiphokaziCele/Assignment3AdvancedCalculator/main/KanbasHalf.png)
+
+![Kanbas Half 2 Image](https://raw.githubusercontent.com/SiphokaziCele/Assignment3AdvancedCalculator/main/KanbasHalf2.png)
+
+
