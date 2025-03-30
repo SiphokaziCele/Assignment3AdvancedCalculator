@@ -37,6 +37,20 @@ If a task remains in the "In Progress" column for more than 2 days, it automatic
 - **Flexibility** – Tasks can be reprioritized based on project needs.
 - **Faster problem-solving** – Blocked tasks are identified early.
 
+## Customization Choices
+
+I customized my Kanban board to better align with the specific needs of my project. Here are the key changes I made:
+
+- **Added 'Testing' column**: This was added to ensure tasks under quality assurance are clearly tracked and managed separately from the "In Progress" column. This helps in distinguishing tasks that are actively being developed versus those that are under review for quality and correctness.
+  
+- **Added 'Blocked' column**: This column was introduced to highlight tasks that are facing obstacles. It ensures that any issues causing delays are immediately visible to the team so that they can be addressed promptly.
+
+- **Included 'Ready' column**: This new column was added to separate tasks that are ready to be worked on from the ones in the "Backlog". This makes it easier for the team to pick up tasks that are fully prepared to be started.
+
+These customizations improve the clarity of the workflow and ensure that all phases of development, testing, and review are properly tracked.
+.
+
+
 ## Kanban Screenshots
 
 ![Kanban Full Board](https://raw.githubusercontent.com/SiphokaziCele/Assignment3AdvancedCalculator/main/KanbasFull.jpg)
