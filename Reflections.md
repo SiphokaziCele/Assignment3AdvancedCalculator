@@ -30,4 +30,26 @@ Since I was both the decision-maker and executor, there were times when internal
 
 This experience reinforced the importance of self-discipline, structured prioritization, and adaptability. If I were to redo this project, I would integrate external feedback earlier—perhaps seeking input from potential users or mentors—to validate priorities. I also realized the value of time tracking and reflection in improving estimation skills. Moving forward, refining Agile practices through self-imposed deadlines and simulated stakeholder reviews will be key to maintaining motivation and structured progress.
 
-Navigating Agile development as a solo stakeholder has been both rewarding and challenging. While the flexibility allowed me to structure the project on my terms, the absence of external accountability made prioritization, estimation, and execution difficult. By acknowledging these challenges and implementing structured self-discipline techniques, I can refine my Agile approach and ensure continued pro
+Navigating Agile development as a solo stakeholder has been both rewarding and challenging. While the flexibility allowed me to structure the project on my terms, the absence of external accountability made prioritization, estimation, and execution difficult. By acknowledging these challenges and implementing structured self-discipline techniques, I can refine my Agile approach and ensure continued project.
+
+# Reflection on Using a Kanban Board
+
+## 1. Understanding Kanban as a Project Management Tool  
+The Kanban board provided a structured way to visualize tasks and manage workflow efficiently. By breaking down work into stages—Backlog, Ready, In Progress, In Review, Testing, Blocked, and Done —I could track progress clearly and identify bottlenecks.  
+
+## 2. Challenges Faced  
+- **Adapting to the Workflow:** Initially, understanding how to properly transition tasks between columns was challenging. Sometimes, tasks were incorrectly placed, leading to confusion.  
+- **Task Overload:** Without Work-In-Progress (WIP) limits, multiple tasks were in progress at once, making it difficult to focus. Implementing a limit helped improve efficiency.  
+- **Blocked Tasks:** Some tasks remained in "Blocked" for extended periods, which slowed overall progress. Identifying the causes early helped mitigate this issue.  
+
+## 3. Key Takeaways & Learning Experience  
+- **Improved Time Management:** The board forced prioritization of tasks, reducing time spent switching between unfinished work.  
+- **Better Collaboration:** If used in a team setting, Kanban ensures that everyone knows task statuses and dependencies.  
+- **Flexibility:** Unlike rigid project management tools, Kanban allows continuous improvement, adapting workflows as needed.  
+
+## 4. How This Will Be Applied in Future Projects  
+Using Kanban has improved my ability to plan and track tasks** effectively. Moving forward, I will:  
+- Set realistic WIP limits to maintain focus.  
+- Use automation (if available) to transition tasks based on completion criteria.  
+- Regularly review the board to remove stale or unnecessary tasks.  
+
