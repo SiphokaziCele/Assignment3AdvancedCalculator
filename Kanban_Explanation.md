@@ -51,3 +51,7 @@ b) Better efficiency – Limiting WIP ensures smoother workflow.
 c) Flexibility – Tasks can be reprioritized based on project needs.
 
 d) Faster problem-solving – Blocked tasks are identified early.
+
+## Kanban Screenshots
+![Kanbas Image](https://raw.githubusercontent.com/SiphokaziCele/Assignment3AdvancedCalculator/main/KanbasFull.jpg)
+
