@@ -1,4 +1,4 @@
-Reflection: Balancing Stakeholder Needs
+## Reflection: Balancing Stakeholder Needs
 
 Developing the Advanced Calculator System involved balancing the needs of different groups, each with their own priorities. One of the main challenges was finding the right balance between simplicity and advanced features. Students and casual users wanted an easy-to-use interface, while researchers and professionals needed more complex functions like logarithms and graphing. To solve this, I created two modes: a simple one for everyday calculations and a more advanced one for technical tasks.
 
