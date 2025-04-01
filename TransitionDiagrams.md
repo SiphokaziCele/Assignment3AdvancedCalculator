@@ -13,13 +13,18 @@ Deleted --> [*]
 ```
 ### Explanation
 The user account starts in the Created sate when a user registers.
+
 It transition to Active once the email is verified.
+
 If the user violates the terms, the account can be suspended.
+
 Suspended acounts can be restored by an admin.
+
 Users can permanently delete their accounts.
 
 ### Mapping to Functional Requirements
 Dleted states maps to FR-003: Allow users to delete their accounts.
+
 Suspended states maps to FR-007: Admin can suspend accounts for violations.
 
 ## 2.Calculation Process
@@ -33,7 +38,9 @@ DisplayingResults --> Idle: User starts a new calculation
 ```
 ### Explanation 
 The system waits in Idle unti the usr provides input.
+
 Moves to Computing once an operation is selected.
+
 Displayingesults shows the answer before returning to Idle.
 
 ### Mapping to Functional Requirements.
@@ -65,7 +72,9 @@ DisplayingGraph --> Ready: User resets
 ```
 ### Explanation
 The system is Ready before a graph is requested.
+
 Moves to GenratingGraph when the data is procesed.
+
 The graph appears in DisplayingGraph.
 
 ### Mapping to Functional Requirements
@@ -96,7 +105,8 @@ Timeout --> LoggedOut: Auto logout
 LoggedIn --> LoggedOut: User logs out
 ```
 ### Explanation
-The system logs out users after inactivity( Timeout)
+The system logs out users after inactivity( Timeout).
+
 Users can manually log out anytime.
 
 ### Mapping of Functional Requirements
@@ -111,6 +121,7 @@ CustomSettings--> DefaultSettings: User resets settings
 ```
 ### Explanation
 Settings start in DefualtSettings.
+
 Users can Customize, then Reset.
 
 ### Mapping of Functional Requirements
