@@ -14,7 +14,7 @@ Below are the activity diagrams that illustrate the core workflows of the Advanc
 - [Login Workflow](https://www.mermaidchart.com/raw/c3c0a77b-ecb3-43a4-a46e-f7023bf38f6c?theme=light&version=v0.1&format=svg)
 - [Perform Calculation Workflow](https://www.mermaidchart.com/raw/38715718-de2b-4ec5-8c5d-ce6f669e07a2?theme=light&version=v0.1&format=svg)
 - [Graphing Calculator Workflow](https://www.mermaidchart.com/raw/91558cfb-f535-4525-a8bd-6fad6ef71a66?theme=light&version=v0.1&format=svg)
-- [Save Calculation History Workflow](link_to_diagram)
+- [Save Calculation History Workflow](https://www.mermaidchart.com/raw/df731fbf-4167-4bca-8bf4-c5bec9c0d7de?theme=light&version=v0.1&format=svg)
 - [Export History Workflow](link_to_diagram)
 - [Unit Conversion Workflow](link_to_diagram)
 - [Encryption Option Workflow](link_to_diagram)
