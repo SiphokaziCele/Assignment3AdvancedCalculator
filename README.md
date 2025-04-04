@@ -1,14 +1,61 @@
 # Assignment3AdvancedCalculator
-Project Title: Advanced Calculator System
+## Project Title: Advanced Calculator System
 
 Description: A web-based calculator that supports basic and advanced operations like addition, subtraction, multiplication, division, exponentiation, and logarithms. 
 Links to:
-    [Specifications.md](Specifications.md)
-    [ARCHITECTURE.md](ARCHITECTURE.md)
-    [Reflections.md](Reflections.md)
-    [Stakeholder_Analysis.md](Stakeholder_Analysis.md)
-    [System_Requirements.md](System_Requirements.md)
-Below are the activity diagrams that illustrate the core workflows of the Advanced Calculator System:
+
+[Specifications.md](Specifications.md)
+    
+[ARCHITECTURE.md](ARCHITECTURE.md)
+   
+[Reflections.md](Reflections.md)
+
+[Stakeholder_Analysis.md](Stakeholder_Analysis.md)
+
+[System_Requirements.md](System_Requirements.md)
+
+[Functional_Requirements.md](Functional_Requirements.md)
+
+[User_Stories.md](User_Stories.md)
+
+[Sprint_Tasks.md](Sprint_Tasks.md)
+
+[BugTriage.png](BugTriage.png)
+
+[IterativeDevelopment.png](IterativeDevelopment.png)
+
+[Kanban_Explanation.md](Kanban_Explanation.md)
+
+[ProductBacklog.md](ProductBacklog.md)
+
+[SprintPlan.md](SprintPlan.md)
+
+[Template_Analysis.md](Template_Analysis.md)
+
+[Test_Case.md](Test_Case.md)
+
+
+
+## Pictures
+[KanbanPic1.png](KanbanPic1.png)
+
+[KanbanPic2.png](KanbanPic2.png)
+
+[KanbasFull.png](KanbasFull.png)
+
+### Activity Diagrams and explanations
+[ActivityDiagrams.md](ActivityDiagrams.md)
+
+### Transition Diagrams and Explanation
+[TransistionDiagrams.md](TransitionDiagrams.md)
+
+[Traceability.md](Traceability.md)
+      
+      
+     
+   
+    
+ ## Activity diagrams Links
 
 - [User Registration Workflow](https://www.mermaidchart.com/raw/37f5f7b5-2b06-4f47-af30-bcd8baa1b8e2?theme=light&version=v0.1&format=svg)
 - [Login Workflow](https://www.mermaidchart.com/raw/c3c0a77b-ecb3-43a4-a46e-f7023bf38f6c?theme=light&version=v0.1&format=svg)
@@ -17,10 +64,9 @@ Below are the activity diagrams that illustrate the core workflows of the Advanc
 - [Save Calculation History Workflow](https://www.mermaidchart.com/raw/df731fbf-4167-4bca-8bf4-c5bec9c0d7de?theme=light&version=v0.1&format=svg)
 - [Export History Workflow](https://www.mermaidchart.com/raw/ccd7b04b-d1dd-43ef-be4d-161d51bd0589?theme=light&version=v0.1&format=svg)
 - [Unit Conversion Workflow](https://www.mermaidchart.com/raw/24e32ebe-44f7-4cf8-87f0-2ab0b41d4398?theme=light&version=v0.1&format=svg)
-- [Encryption Option Workflow](link_to_diagram)
+- [Encryption Option Workflow](https://www.mermaidchart.com/raw/a2974b2e-27a8-4bb8-a746-e05be11bace5?theme=light&version=v0.1&format=svg)
 
 
 
 
-    SPECIFICATION.md
-    ARCHITECTURE.md
+   
