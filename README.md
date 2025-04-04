@@ -11,7 +11,7 @@ Links to:
 Below are the activity diagrams that illustrate the core workflows of the Advanced Calculator System:
 
 - [User Registration Workflow](https://www.mermaidchart.com/raw/37f5f7b5-2b06-4f47-af30-bcd8baa1b8e2?theme=light&version=v0.1&format=svg)
-- [Login Workflow](https://www.mermaidchart.com/raw/37f5f7b5-2b06-4f47-af30-bcd8baa1b8e2?theme=light&version=v0.1&format=svg)
+- [Login Workflow](https://www.mermaidchart.com/raw/c3c0a77b-ecb3-43a4-a46e-f7023bf38f6c?theme=light&version=v0.1&format=svg)
 - [Perform Calculation Workflow](link_to_diagram)
 - [Graphing Calculator Workflow](link_to_diagram)
 - [Save Calculation History Workflow](link_to_diagram)
