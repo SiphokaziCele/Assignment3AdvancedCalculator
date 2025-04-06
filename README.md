@@ -43,19 +43,22 @@ Links to:
 
 [KanbasFull.png](KanbasFull.png)
 
-### Activity Diagrams and explanations
+### Activity Diagrams and explanations  
+This document provides detailed explanations and diagrams for various activity workflows within the system, covering the processes from user registration to encryption options.
+
 [ActivityDiagrams.md](ActivityDiagrams.md)
 
 ### Transition Diagrams and Explanation
+In this document, the transition diagrams describe the states and transitions of the system, helping to visualize the flow and behavior of key features.
+
 [TransistionDiagrams.md](TransitionDiagrams.md)
+
+### Traceability
+This file traces the relationships between functional requirements, user stories, and sprint tasks, helping to connect the diagrams to the overall project objectives and development goals.
 
 [Traceability.md](Traceability.md)
       
-      
-     
-   
-    
- ## Activity diagrams Links
+### Activity diagrams Links
 
 - [User Registration Workflow](https://www.mermaidchart.com/raw/37f5f7b5-2b06-4f47-af30-bcd8baa1b8e2?theme=light&version=v0.1&format=svg)
 - [Login Workflow](https://www.mermaidchart.com/raw/c3c0a77b-ecb3-43a4-a46e-f7023bf38f6c?theme=light&version=v0.1&format=svg)
