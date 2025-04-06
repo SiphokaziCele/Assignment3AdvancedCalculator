@@ -1,6 +1,6 @@
 
-## Traceability
-
+# Traceability
+## For activity Diagrams
 The following section shows how each diagram relates to the functional requirements and user stories:
 
 ### 1. **User Registration Workflow**
@@ -85,3 +85,108 @@ The following section shows how each diagram relates to the functional requireme
 
  - **Sprint Task:**
    - Implement advanced function parsing and integrate with the core calculation engine.
+## For State Transition diagrams
+### 1. User Account
+
+- **Functional Requirements (Assignment 4):**
+    - **FR-003:** Allow users to delete their accounts.
+    - **FR-007:** Admin can suspend accounts for violations.
+  
+- **User Stories (Assignment 6):**
+    - **US-002:** As a user, I want to verify my account to activate it.
+    - **US-003:** As an admin, I want to suspend user accounts that violate the rules.
+    - **US-004:** As an admin, I want to delete user accounts when necessary.
+
+- **Sprint Task:**
+    - Implement account suspension and deletion functionality for admins.
+    - Implement email verification for users to activate their accounts.
+
+---
+
+### 2. Calculation Process
+
+- **Functional Requirements (Assignment 4):**
+    - **FR-010:** Perform calculations efficiently.
+  
+- **User Stories (Assignment 6):**
+    - **US-006:** As a user, I want to select an operation to start a calculation.
+    - **US-007:** As a user, I want to view the result of the calculation after the system processes it.
+
+- **Sprint Task:**
+    - Implement a calculation feature that processes the input and returns results efficiently.
+    - Ensure smooth transition between calculation steps (from idle to computing to displaying results).
+
+---
+
+### 3. History Recorded
+
+- **Functional Requirements (Assignment 4):**
+    - **FR-015:** Allow users to save calculations to view later.
+  
+- **User Stories (Assignment 6):**
+    - **US-005:** As a user, I want to save my calculations so I can view them later.
+    - **US-008:** As a user, I want to delete my saved calculations if they are no longer needed.
+
+- **Sprint Task:**
+    - Implement functionality to save and delete calculation history.
+    - Develop a user interface for displaying saved calculations.
+
+---
+
+### 4. Graphing Function
+
+- **Functional Requirements (Assignment 4):**
+    - **FR-020:** Provide graphing capabilities.
+
+- **User Stories (Assignment 6):**
+    - **US-010:** As a user, I want to generate a graph from my data so I can visualize the results.
+    - **US-011:** As a user, I want to view the graph once it has been generated.
+
+- **Sprint Task:**
+    - Implement the graphing functionality to process data and generate graphs.
+    - Develop the interface to display the generated graph to the user.
+
+---
+
+### 5. Unit Conversion
+
+- **Functional Requirements (Assignment 4):**
+    - **FR-025:** Enable unit conversions.
+
+- **User Stories (Assignment 6):**
+    - **US-012:** As a user, I want to convert between different units.
+    - **US-013:** As a user, I want to see the result of my unit conversion.
+
+- **Sprint Task:**
+    - Implement unit conversion functionality for various units.
+    - Create a user interface to display the conversion results.
+
+---
+
+### 6. Session Management
+
+- **Functional Requirements (Assignment 4):**
+    - **FR-030:** Auto-logout after inactivity.
+
+- **User Stories (Assignment 6):**
+    - **US-014:** As a user, I want the system to log me out after inactivity for security.
+    - **US-015:** As a user, I want to manually log out from the system.
+
+- **Sprint Task:**
+    - Implement automatic logout feature after a specified time of inactivity.
+    - Implement a manual logout option for users.
+
+---
+
+### 7. Setting Configuration
+
+- **Functional Requirements (Assignment 4):**
+    - **FR-035:** Allow users to personalize settings.
+
+- **User Stories (Assignment 6):**
+    - **US-016:** As a user, I want to customize my settings to match my preferences.
+    - **US-017:** As a user, I want to reset my settings to the default values.
+
+- **Sprint Task:**
+    - Implement user settings customization options.
+    - Provide the ability to reset settings to their default values.
