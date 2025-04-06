@@ -47,3 +47,41 @@ The following section shows how each diagram relates to the functional requireme
   - US-004: As a user, I want to input a function and see its graph so that I can visualize the relationship between variables.
 - **Sprint Task:**
   - Implement the graphing functionality, including function parsing
+---
+### 5.Save Calculation History Workflow
+- **Functional Requirements (Assignment 4):**
+    - FR-006: The system must allow users to save and access a history of their previous calculations.
+- **User Stories (Assignment 6):**
+    -  US-005: As a user, I want to be able to view my calculation history so that I can track what I’ve done before.
+- **Sprint Task:**
+    - Implement a backend history feature and connect it to the user interface.
+---
+### 6. Export Results Workflow
+- **Functional Requirements (Assignment 4):**
+    - FR-007: The system must allow users to export calculation results as a PDF or CSV.
+- **User Stories (Assignment 6):**
+    -  US-006: As a user, I want to download my results in a readable format so that I can share or store them.
+ - **Sprint Task:**
+     - Implement export functionality using file generation libraries.
+---
+### 7. Unit Conversion Workflow
+
+  - **Functional Requirements (Assignment 4):**
+    - FR-008: The system must provide the ability to convert between different units (e.g., length, weight, temperature).
+
+ - **User Stories (Assignment 6):**
+     - US-007: As a user, I want to convert between different units so that I can complete everyday or academic tasks more efficiently.
+
+  - **Sprint Task:**
+    -  Implement unit selection, conversion logic, and error handling.
+---
+### 8. Advanced Functions Workflow (Trigonometry, Logarithms, etc.)
+
+  - **Functional Requirements (Assignment 4):**
+    - FR-009: The system must support advanced mathematical functions including trigonometry, logarithms, and powers.
+
+ - **User Stories (Assignment 6):**
+   -  US-008: As a user, I want to perform complex scientific calculations so that I can use the tool for academic purposes.
+
+ - **Sprint Task:**
+   - Implement advanced function parsing and integrate with the core calculation engine.
