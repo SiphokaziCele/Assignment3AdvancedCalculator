@@ -1,6 +1,6 @@
 ```mermaid
 classDiagram {
-    -userID" String
+    -userID:git String
     -name: String
     -password: String
     +register(): void
