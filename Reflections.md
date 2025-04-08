@@ -71,3 +71,20 @@ Visual Elements	States, transitions, events, guards	Actions, decisions, concurre
 Challenge	Hard to model parallel actions	Less suited for object-level behavior
 
 Summary: State diagrams were ideal for showing how the calculator or user account changes states due to events (e.g., login, session expired), while activity diagrams effectively captured end-to-end workflows such as performing calculations or exporting results.
+
+# Reflections for designing the domain model and class diadram 
+Designing the domain model and class diagram for the Advanced Calculator System posed several intellectual and practical challenges. One of the first hurdles was deciding the appropriate level of granularity for domain entities. Initially, there was a temptation to overcomplicate the model by introducing too many minor classes for operations like trigonometric functions, algebraic simplifications, or expression parsing. However, these would clutter the model and hinder readability. After several iterations, I chose to abstract these operations under the Calculator class, with different type values like basic, scientific, and graphing.
+
+Another challenge involved defining clear responsibilities between the User, Calculator, and Calculation classes. To maintain separation of concerns, user authentication was kept strictly within the User class, while all evaluation logic remained in the Calculator class. This decision aligns well with object-oriented principles and ensures flexibility in future extensions such as admin roles or advanced calculators.
+
+Aligning the domain model and class diagram with prior assignments required revisiting the use cases and state/activity diagrams created in Assignment 8. For example, the state transitions for “Perform Calculation” and “Generate Graph” directly informed the methods and class responsibilities in the diagram. The activity diagram's decision points also influenced the inclusion of a centralized ErrorHandler class to manage invalid inputs.
+
+A particularly tricky decision involved inheritance and composition. Initially, the Graph class was modeled as a standalone entity. However, since it shares common attributes like expression and result with Calculation, inheritance was introduced, making Graph a subclass of Calculation. This not only reduced redundancy but also aligned better with real-world object hierarchies, where graphing is an extension of standard calculations.
+
+The process also highlighted the importance of traceability in Agile development. The class diagram directly maps to user stories such as “As a user, I want to calculate an expression” or “As a user, I want to view my history.” Sprint tasks like implementing graph generation and input validation are now clearly associated with the respective methods and classes.
+
+One limitation was that Mermaid.js, while simple and readable, lacks advanced features like visibility modifiers for associations or detailed notes inline. Despite this, it was adequate for representing the key classes, attributes, and methods.
+
+This exercise reinforced the importance of designing software systems with extensibility and maintainability in mind. By creating an abstract yet comprehensive model, future requirements like multi-user collaboration or advanced computation modules can be integrated with minimal structural changes. I also learned that revisiting earlier work—like user stories, functional requirements, and behavior diagrams—ensures that design decisions remain grounded in user and system needs.
+
+In conclusion, this assignment not only deepened my understanding of domain modeling and class diagrams but also illustrated the value of cohesive design in software engineering.
