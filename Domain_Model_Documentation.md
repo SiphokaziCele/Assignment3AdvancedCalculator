@@ -1,5 +1,5 @@
 ## Domain Model
-| **Entity **      | **Attributes**                                       | **Methods**               | **Realtionships**
+| **Entity **      | **Attributes**                                       | **Methods**               
 ------------------------------------------------------------------------------------------------
 | **User**         | `userID`, `name`, `email`,`password`                 | `egister()`, `login()`,`logout()`,
-|**Calculator**    | `calculatorID`, `type`,(basic, scientific, graphing) |`calculateExpression()`, `validateInput()`,`displayResults()`,
+|**Calculator**    | `calculatorID`, `type`,(basic, scientific, graphing) |`calculateExpression
