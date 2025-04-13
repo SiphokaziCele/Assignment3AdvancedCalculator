@@ -74,7 +74,7 @@ This file traces the relationships between functional requirements, user stories
 ### Domain Model
 This document outlines the core entities of the Advanced Calculator System (e.g., User, Calculator, History) along with their attributes, methods, and relationships. It helps visualize how data flows and how components interact within the system at a high level.
 
-[Domain_Model_Documentation.md](Domain_Model.md) 
+[Domain_Model_Documentation.md](Domain_Model_Documentation.md) 
 
 ### Class Diagram
 The class diagram provides a technical blueprint of the system using object-oriented principles. It includes classes, attributes, methods, inheritance, and associations, illustrating how the system is structured for implementation.
