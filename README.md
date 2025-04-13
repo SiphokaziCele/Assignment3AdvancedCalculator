@@ -36,6 +36,8 @@ Links to:
 
 
 
+
+
 ## Pictures
 [KanbanPic1.png](KanbanPic1.png)
 
@@ -68,6 +70,16 @@ This file traces the relationships between functional requirements, user stories
 - [Export History Workflow](https://www.mermaidchart.com/raw/ccd7b04b-d1dd-43ef-be4d-161d51bd0589?theme=light&version=v0.1&format=svg)
 - [Unit Conversion Workflow](https://www.mermaidchart.com/raw/24e32ebe-44f7-4cf8-87f0-2ab0b41d4398?theme=light&version=v0.1&format=svg)
 - [Encryption Option Workflow](https://www.mermaidchart.com/raw/a2974b2e-27a8-4bb8-a746-e05be11bace5?theme=light&version=v0.1&format=svg)
+
+### Domain Model
+This document outlines the core entities of the Advanced Calculator System (e.g., User, Calculator, History) along with their attributes, methods, and relationships. It helps visualize how data flows and how components interact within the system at a high level.
+
+[Domain_Model_Documentation.md](Domain_Model.md) 
+
+### Class Diagram
+The class diagram provides a technical blueprint of the system using object-oriented principles. It includes classes, attributes, methods, inheritance, and associations, illustrating how the system is structured for implementation.
+
+[Class_Diagram.md](Class_Diagram.md) 
 
 
 
