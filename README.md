@@ -79,7 +79,7 @@ This document outlines the core entities of the Advanced Calculator System (e.g.
 ### Class Diagram
 The class diagram provides a technical blueprint of the system using object-oriented principles. It includes classes, attributes, methods, inheritance, and associations, illustrating how the system is structured for implementation.
 
-[Class_Diagram.md](Class_Diagram.md) 
+[Class_Diagram.md](ClassDiagram.md) 
 
 
 
