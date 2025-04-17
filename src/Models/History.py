@@ -1,5 +1,5 @@
 class History:
-    def _init_(self,userID):
+    def __init__(self, userID):
         self.userID=userID
         self.calculations = []
 
