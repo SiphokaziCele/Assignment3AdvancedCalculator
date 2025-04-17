@@ -16,7 +16,9 @@ if calc.validateInput(expression):
 
     # Step 3: Create a Calculation object and perform the calculation
     # c = Calculation("calc01", expression)
-    c = Calculation()
+    #c = Calculation()
+    c = Calculation("calc01", expression, precision=4, rounding=True)  # Added necessary arguments
+
     c.perform()  # Perform the calculation
     c.SaveToHistory()  # Save the result to the user's history
 

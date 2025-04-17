@@ -1,11 +1,13 @@
 from datetime import datetime
 
 class Calculation:
-    def _init_ (self, calculationID, expression):
+    def __init__(self, calculationID, expression, precision=2, rounding=True):
         self.calculationID= calculationID
         self.expression=expression
         self.result = None
         self.timestamp = datetime.now ()
+        self.precision = precision  # New attribute for precision
+        self.rounding = rounding  
        
 
     def perform (self):
