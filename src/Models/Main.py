@@ -8,7 +8,8 @@ user.login()
 
 # Step 2: Create a Calculator instance and validate input
 calc = Calculator("c01", "Basic")
-expression = "5 + 3 * 2"  # Example expression
+expression = "5 + 3 * 2"  # Example expressiongit add .
+
 if calc.validateInput(expression):
     result = calc.calculateExpressions(expression)
     calc.displayResults(result)
