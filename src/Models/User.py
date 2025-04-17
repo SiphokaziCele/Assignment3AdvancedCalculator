@@ -17,3 +17,6 @@ class User:
 
     def logout(self):
         print(f"{self.name} logged out.")
+
+    def add(self):
+        print(f"booyakasha.")

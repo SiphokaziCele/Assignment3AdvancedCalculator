@@ -15,5 +15,6 @@ class Calculation:
             self.result = "Error"
             return self.result
     
-    def SaveToHistory(self,user):
-        user.history.add.entry (self)
+    def SaveToHistory(self):
+        # user.add(self)
+        print("Sure, Jan")

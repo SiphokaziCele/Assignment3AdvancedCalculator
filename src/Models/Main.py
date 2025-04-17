@@ -14,9 +14,10 @@ if calc.validateInput(expression):
     calc.displayResults(result)
 
     # Step 3: Create a Calculation object and perform the calculation
-    c = Calculation("calc01", expression)
+    # c = Calculation("calc01", expression)
+    c = Calculation()
     c.perform()  # Perform the calculation
-    c.save_to_history(user)  # Save the result to the user's history
+    c.SaveToHistory()  # Save the result to the user's history
 
     # Step 4: View the history
-    print([f"{calc.expression} = {calc.result}" for calc in user.history.view_history()])
+    print([f"{calc.expression} = {calc.result}" for calc in user.history.viewHistory()])
