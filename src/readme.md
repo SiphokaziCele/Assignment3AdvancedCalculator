@@ -58,3 +58,75 @@
     Class: Logger
 
     Location: Singletons/logger.py
+---
+## Language Choice: Python
+
+    Why Python?
+    Python was selected due to its simplicity, readability, and strong community support. It allowed for quick development of both core
+    calculator logic and unit testing using built-in and third-party libraries.
+
+### Key benefits:
+
+        Ease of prototyping – Ideal for testing out design ideas quickly.
+
+        Rich standard library – Modules like math, unittest, and external ones like pytest made testing and implementation seamless.
+
+        Cross-platform compatibility – Works on Windows, Mac, and Linux, making the app widely accessible.
+
+        Clear syntax – Encourages clean, readable, and maintainable code.
+
+## Key Design Decisions
+
+### Modular Architecture
+
+        Code is separated into logical modules:
+
+            calc_logic.py: Core logic.
+
+            formatter.py: Responsible for formatting outputs.
+
+            logger.py: Handles system logging.
+
+            ui_factory.py & calculator_factory.py: Implements Factory pattern for UI and calculator type creation.
+
+    Why? Improves maintainability, scalability, and testing.
+
+### Design Patterns
+
+        Singleton Pattern used in logger.py:
+
+            Ensures only one instance of the logger is used throughout the application.
+
+            Prevents duplicate or inconsistent logs.
+
+        Factory Pattern used in calculator_factory.py:
+
+            Decouples object creation from logic.
+
+            Makes it easier to add new calculator types without modifying existing code.
+
+### Test-Driven Development (TDD)
+
+        Tests were written using pytest before or alongside implementation.
+
+        Coverage tools ensured code was well-tested.
+
+        🧪 Ensured reliability and made debugging easier.
+
+### User Stories → Code
+
+        The project follows user-centric requirements, for example:
+
+            Graphing functions (matplotlib)
+
+            Saving frequently used calculations
+
+            Exporting history
+
+            Performing unit conversions
+
+        Each feature maps directly to a user story on the backlog.
+
+### Security Consideration
+
+        In user data features (planned or implemented), encryption is considered for secure handling of sensitive data.
