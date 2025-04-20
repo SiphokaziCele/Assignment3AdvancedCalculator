@@ -33,7 +33,7 @@ if __name__ == "__main__":
     logger.log("Application launched")
 
     # --- Simple Factory ---
-    calc = CalculatorFactory.get_calculator("Scientific")8
+    calc = CalculatorFactory.get_calculator("Scientific")
     print("Factory Calculator Result:", calc.calculateExpressions("2 + 2 * 5"))
 
 

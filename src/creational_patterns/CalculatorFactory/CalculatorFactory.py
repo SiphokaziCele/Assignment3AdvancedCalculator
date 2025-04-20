@@ -1,3 +1,6 @@
+#--Simple Factory--#
+#--Factory Method--#
+
 from Models.Calculator import Calculator
 
 
