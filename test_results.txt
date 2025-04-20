@@ -1,0 +1,15 @@
+============================= test session starts =============================
+platform win32 -- Python 3.12.5, pytest-8.3.5, pluggy-1.5.0
+rootdir: C:\Users\Halala Cele\Desktop\Assignment3AdvancedCalculator
+plugins: cov-6.1.1
+collected 13 items
+
+src\tests\test_calc_logic.py .....                                       [ 38%]
+src\tests\test_calculation_builder.py .                                  [ 46%]
+src\tests\test_calculation_prototype.py .                                [ 53%]
+src\tests\test_calculator_factory.py ..                                  [ 69%]
+src\tests\test_formatter.py .                                            [ 76%]
+src\tests\test_logger.py ..                                              [ 92%]
+src\tests\test_ui_factory.py .                                           [100%]
+
+============================= 13 passed in 0.39s ==============================
