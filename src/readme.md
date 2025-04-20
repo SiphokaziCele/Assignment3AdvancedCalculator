@@ -130,3 +130,17 @@
 ### Security Consideration
 
         In user data features (planned or implemented), encryption is considered for secure handling of sensitive data.
+## Links to the codes
+###  `src/` Directory Overview
+
+- [calc_logic.py](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/blob/main/src/calc_logic.py): Core logic for arithmetic and scientific calculations.
+- [formatter.py](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/blob/main/src/formatter.py): Formats output display for user readability.
+- [logger.py](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/blob/main/src/logger.py): Singleton logger for tracking system actions and errors.
+- [ui_factory.py](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/blob/main/src/ui_factory.py): Factory for generating different user interface modes.
+- [calculation_builder.py](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/blob/main/src/calculation_builder.py): Builds complex calculation objects using builder pattern.
+- [calculation_prototype.py](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/blob/main/src/calculation_prototype.py): Allows duplication of calculation objects using the prototype pattern.
+- [calculator_factory.py](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/blob/main/src/calculator_factory.py): Factory pattern to generate calculator types (basic, scientific, etc).
+- [history_exporter.py](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/blob/main/src/history_exporter.py): Handles export of user calculation history to text files.
+- [converter.py](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/blob/main/src/converter.py): Provides unit conversion logic (length, mass, temperature, etc).
+- [tests/](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/tree/main/src/tests): Unit tests for all modules to ensure functionality and reliability.
+
