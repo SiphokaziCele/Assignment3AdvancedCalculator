@@ -135,7 +135,7 @@
 
 ## 📁 Key Project Folders and Files
 
-- [**src/Models/**](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/tree/main/src/models)  
+- [**src/Models/**](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/tree/main/src/Models)  
   Contains data structures and logic models used in calculator operations.
 
 - [**src/creational_patterns/**](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/tree/main/src/creational_patterns)  
