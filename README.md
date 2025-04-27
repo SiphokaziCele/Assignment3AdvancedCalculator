@@ -103,11 +103,15 @@ The class diagram provides a technical blueprint of the system using object-orie
 
 ### Links to the code:
 [**src/Repositories/**](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/tree/main/src/Repositories)
+Contains all repository-related classes and interfaces.  
+  Includes: **Repository<T, ID>** (generic interface), **UserRepository**, **InMemoryUserRepository**, and **JSON_Repo** for saving and retrieving user data.
 
 [**src/RepositoryFactory/**](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/tree/main/src/RepositoryFactory)
-
+Contains the **RepositoryFactory** class.  
+  This factory dynamically creates the correct repository instance (either memory-based or file-based) at runtime based on the selected storage type.
+  
 [**src/UpdatedClassDiagram.md/**](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/tree/main/src/UpdatedClassDiagram.md)
-
+Contains the updated UML Class Diagram (using Mermaid) showing both the original system models and the newly added repository layer with interfaces and implementations.
 
 
 
