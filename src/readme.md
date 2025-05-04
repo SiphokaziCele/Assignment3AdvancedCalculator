@@ -186,7 +186,7 @@ This assignment implements a **User Registration Feature** using layered archite
 
 ### 2. 🌐 REST API Endpoints
 - **Purpose**: Exposes HTTP endpoints for user registration via FastAPI.
-- **File**: [`src/api/users_api.py`](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/tree/main/src/api/users_routes.py)
+- **File**: [`src/api/user_routes.py`](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/tree/main/src/api/user_routes.py)
 - **Base Route**: `/api/users`
 
 #### Endpoints
