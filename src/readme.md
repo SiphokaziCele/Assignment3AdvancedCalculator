@@ -159,13 +159,49 @@ Contains the **RepositoryFactory** class.
   This factory dynamically creates the correct repository instance (either memory-based or file-based) at runtime based on the selected storage type.
   
 [**src/UpdatedClassDiagram.md/**](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/tree/main/src/UpdatedClassDiagram.md)
-Contains the updated UML Class Diagram (using Mermaid) showing both the original system models and the newly added repository layer with interfaces and implementations.## [Assignment 12] - REST API & Service Layer
+Contains the updated UML Class Diagram (using Mermaid) showing both the original system models and the newly added repository layer with interfaces and implementations.
 
-### Added
-- Service Layer for User Registration
-- REST API endpoints under `/api/users`
-- FastAPI app with Swagger documentation
-- Unit tests for UserService
+# ✅ Assignment 12 Summary: User Registration Feature
+
+## 📌 Overview
+This assignment implements a **User Registration Feature** using layered architecture. The components include:
+
+- Service Layer for business logic
+- REST API endpoints using FastAPI
+- FastAPI application with Swagger documentation
+- Unit tests for service logic
+
+---
+
+## 📁 Project Structure & Locations
+
+### 1. 🧠 User Registration Service Layer
+- **Purpose**: Contains core business logic for registering users.
+- **File**: [`src/Services/user_service.py`](src/Services/user_service.py)
+- **Functionality**:
+  - `register_user(user_data: dict)`: Validates and stores a new user
+- **Dependencies**: Relies on `UserRepository` for user data operations.
+
+---
+
+### 2. 🌐 REST API Endpoints
+- **Purpose**: Exposes HTTP endpoints for user registration via FastAPI.
+- **File**: [`src/api/users_api.py`](src/api/users_api.py)
+- **Base Route**: `/api/users`
+
+#### Endpoints
+| Method | Route | Description |
+|--------|-------|-------------|
+| POST   | `/api/users/register` | Register a new user |
+
+**Example request (JSON):**
+```json
+{
+  "username": "testuser",
+  "email": "test@example.com",
+  "password": "password123"
+}
+
 
 
 
