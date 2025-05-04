@@ -177,9 +177,9 @@ This assignment implements a **User Registration Feature** using layered archite
 
 ### 1. 🧠 User Registration Service Layer
 - **Purpose**: Contains core business logic for registering users.
-- **File**: [`src/Services/user_service.py`](src/Services/user_service.py)
+- **File**: [src/services/user_service.py](src/services/user_service.py)
 - **Functionality**:
-  - `register_user(user_data: dict)`: Validates and stores a new user
+  - register_user(user_data: dict): Validates and stores a new user
 - **Dependencies**: Relies on `UserRepository` for user data operations.
 
 ---
