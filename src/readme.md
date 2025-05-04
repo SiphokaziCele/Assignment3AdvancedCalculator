@@ -159,6 +159,14 @@ Contains the **RepositoryFactory** class.
   This factory dynamically creates the correct repository instance (either memory-based or file-based) at runtime based on the selected storage type.
   
 [**src/UpdatedClassDiagram.md/**](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/tree/main/src/UpdatedClassDiagram.md)
-Contains the updated UML Class Diagram (using Mermaid) showing both the original system models and the newly added repository layer with interfaces and implementations.
+Contains the updated UML Class Diagram (using Mermaid) showing both the original system models and the newly added repository layer with interfaces and implementations.## [Assignment 12] - REST API & Service Layer
+
+### Added
+- Service Layer for User Registration
+- REST API endpoints under `/api/users`
+- FastAPI app with Swagger documentation
+- Unit tests for UserService
+
+
 
 
