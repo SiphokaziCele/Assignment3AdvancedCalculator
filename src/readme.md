@@ -177,7 +177,7 @@ This assignment implements a **User Registration Feature** using layered archite
 
 ### 1. 🧠 User Registration Service Layer
 - **Purpose**: Contains core business logic for registering users.
-- **File**: [src/services/user_service.py](src/services/user_service.py)
+- **File**: [src/services/user_service.py](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/tree/main/src/services/user_service.py)
 - **Functionality**:
   - register_user(user_data: dict): Validates and stores a new user
 - **Dependencies**: Relies on `UserRepository` for user data operations.
@@ -186,7 +186,7 @@ This assignment implements a **User Registration Feature** using layered archite
 
 ### 2. 🌐 REST API Endpoints
 - **Purpose**: Exposes HTTP endpoints for user registration via FastAPI.
-- **File**: [`src/api/users_api.py`](src/api/users_api.py)
+- **File**: [`src/api/users_api.py`](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/tree/main/src/api/users_api.py)
 - **Base Route**: `/api/users`
 
 #### Endpoints
