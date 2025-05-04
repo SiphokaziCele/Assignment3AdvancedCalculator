@@ -1,6 +1,6 @@
 
 import unittest
-from creational_patterns.Factories.ui_factory import DarkThemeFactory
+from src.creational_patterns.Factories.ui_factory import DarkThemeFactory
 
 
 class TestUIFactory(unittest.TestCase):

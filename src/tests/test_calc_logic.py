@@ -1,5 +1,5 @@
 import unittest
-from Models.Calculator import Calculator
+from src.Models.Calculator import Calculator
 
 class TestCalculatorLogic(unittest.TestCase):
 

@@ -1,6 +1,6 @@
 
 import unittest
-from creational_patterns.Factories.calculator_factory import CalculatorFactory
+from src.creational_patterns.Factories.calculator_factory import CalculatorFactory
 
 class TestCalculatorFactory(unittest.TestCase):
     def test_scientific_calculator(self):

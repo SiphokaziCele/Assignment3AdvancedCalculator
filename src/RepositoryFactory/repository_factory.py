@@ -1,4 +1,4 @@
-from Repositories.json_repo.filesystem_user_repo import FileSystemUserRepository
+from src.Repositories.json_repo.filesystem_user_repo import FileSystemUserRepository
 
 class RepositoryFactory:
     @staticmethod

@@ -1,5 +1,5 @@
 import unittest
-from creational_patterns.Prototype.calculations_prototype import CalculationPrototype
+from src.creational_patterns.Prototype.calculations_prototype import CalculationPrototype
 
 class TestCalculationPrototype(unittest.TestCase):
     def test_clone(self):

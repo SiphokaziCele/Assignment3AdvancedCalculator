@@ -1,5 +1,5 @@
 import unittest
-from creational_patterns.Singletons.logger import Logger
+from src.creational_patterns.Singletons.logger import Logger
 
 class TestLogger(unittest.TestCase):
     def test_singleton_behavior(self):

@@ -1,6 +1,6 @@
 import unittest
-from Repositories.inmemory.inmemory_user_repo import InMemoryUserRepository
-from Models.User import User
+from src.Repositories.inmemory.inmemory_user_repo import InMemoryUserRepository
+from src.Models.User import User
 
 class TestInMemoryUserRepository(unittest.TestCase):
     def test_crud_operations(self):

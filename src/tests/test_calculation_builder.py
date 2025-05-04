@@ -1,4 +1,5 @@
-from creational_patterns.Builders.calculation_builder import CalculationBuilder
+from src.creational_patterns.Builders.calculation_builder import CalculationBuilder
+from src.Models.Calculations import Calculation
 import unittest
 
 class TestCalculationBuilder(unittest.TestCase):

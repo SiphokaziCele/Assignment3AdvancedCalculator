@@ -1,6 +1,6 @@
 
 import unittest
-from creational_patterns.Factories.results_formatter import PlainTextFormatter
+from src.creational_patterns.Factories.results_formatter import PlainTextFormatter
 
 class TestFormatter(unittest.TestCase):
     def test_format_plain_text(self):

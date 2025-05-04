@@ -1,5 +1,5 @@
-from Repositories.user_repository import UserRepository
-from Models.User import User
+from src.Repositories.user_repository import UserRepository
+from src.Models.User import User
 from typing import Optional
 import json
 import os
