@@ -2,13 +2,17 @@ name: Run Tests
 
 on:
   push:
-    branches: [ main ]
+    branches: 
+      - main
+      - SiphokaziCele-patch-1  # Add your branch here
   pull_request:
-    branches: [ main ]
+    branches: 
+      - main
+      - SiphokaziCele-patch-1  # Add your branch here
 
 jobs:
   test:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
 
     steps:
     - name: 🔄 Checkout Code
