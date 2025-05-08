@@ -4,11 +4,11 @@ on:
   push:
     branches: 
       - main
-      - SiphokaziCele-patch-1  # Add your branch here
+      - SiphokaziCele-patch-1
   pull_request:
     branches: 
       - main
-      - SiphokaziCele-patch-1  # Add your branch here
+      - SiphokaziCele-patch-1
 
 jobs:
   test:
@@ -28,6 +28,9 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt || echo "No requirements.txt found"
 
+    - name: Set PYTHONPATH
+      run: echo "PYTHONPATH=$(pwd)/src" >> $GITHUB_ENV
+
     - name: 🧪 Run Tests
       run: |
-        python -m unittest discover -s src/tests  # Specify the correct test directory
+        python -m unittest discover -s src/tests
