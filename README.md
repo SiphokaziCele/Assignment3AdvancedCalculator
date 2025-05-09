@@ -1,5 +1,6 @@
 # Assignment3AdvancedCalculator
-## Project Title: Advanced Calculator System
+## Project Title: Advanced Calculator System 
+[![Run Tests](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/actions/workflows/ci.yml/badge.svg)](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/actions/workflows/ci.yml)
 
 Description: A web-based calculator that supports basic and advanced operations like addition, subtraction, multiplication, division, exponentiation, and logarithms. 
 Links to:
