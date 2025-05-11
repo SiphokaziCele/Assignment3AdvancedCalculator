@@ -145,7 +145,7 @@ Created a reusable pull request template that auto-fills when contributors open 
 This ensures consistency and clarity in contributions.
 
  File:  
-[`/.github/Create pull_request_template.md`](.github/pull_request_template.md)  
+[`/.github/pull_request_template.md`](.github/pull_request_template.md)  
  Screenshot:  
 [`docs/screenshots/pull_request_template.png`](docs/screenshots/pull_request_template.png)
 
