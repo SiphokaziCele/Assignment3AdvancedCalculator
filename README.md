@@ -159,7 +159,7 @@ This ensures consistency and clarity in contributions.
  Workflow file:  
 [`/.github/workflows/ci.yml`](.github/workflows/ci.yml)  
  Screenshot of successful test run:  
-[`docs/screenshots/test_results_success.png`](docs/screenshots/test_results_success.png)
+[`docs/screenshots/Test_Results_Success/Run Test-Success.png`](docs/screenshots/Test_Results_Success/Run Test-Success.png)
 
 ---
 
