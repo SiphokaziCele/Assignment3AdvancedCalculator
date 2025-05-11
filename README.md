@@ -157,7 +157,7 @@ This ensures consistency and clarity in contributions.
 - Automatically runs tests on each push or pull request to `main`
 
  Workflow file:  
-[`/.github/workflows/ci.yml`](.github/workflows/ci.yml)  
+[`/.github/workflows/ci.yml`](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/actions)  
  Screenshot of successful test run:  
 [`docs/screenshots/Test_Results_Success/Run Test-Success.png`](docs/screenshots/Test_Results_Success/Run Test-Success.png)
 
