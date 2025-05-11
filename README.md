@@ -133,7 +133,9 @@ This section documents the infrastructure and automation improvements completed 
 - Prevented force pushes and direct commits
 
  Screenshot:  
-[`docs/screenshots/branch_protection_rule.png`](docs/screenshots/branch_protection_rule.png)
+[`docs/screenshots/branchRules/Rules.png`](docs/screenshots/BranchRules/Rules.png)
+[`docs/screenshots/branchRules/Rules1.png`](docs/screenshots/BranchRules/Rules1.png)
+
 
 ---
 
