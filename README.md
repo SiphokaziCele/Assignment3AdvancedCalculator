@@ -171,7 +171,7 @@ Integrated a live status badge at the top of the README to reflect build/test st
 [![Run Tests](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/actions/workflows/ci.yml/badge.svg)](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/actions/workflows/ci.yml)
 
  Screenshot:  
-[`docs/screenshots/status_badge_in_readme.png`](docs/screenshots/status_badge_in_readme.png)
+[`docs/screenshots/status_badge_in_readme.png`](docs/screenshots/status_badge_in_readme/Badge.png)
 
 
 
