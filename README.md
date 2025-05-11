@@ -114,6 +114,64 @@ Contains the **RepositoryFactory** class.
 [**src/UpdatedClassDiagram.md/**](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/tree/main/src/UpdatedClassDiagram.md)
 Contains the updated UML Class Diagram (using Mermaid) showing both the original system models and the newly added repository layer with interfaces and implementations.
 
+## Assignment 14 – Project Infrastructure & DevOps Enhancements
+
+This section documents the infrastructure and automation improvements completed for Assignment 14, including:
+
+- Branch protection configuration  
+- Pull request automation  
+- GitHub Actions CI workflow  
+- Status badge integration  
+- Repository organization
+
+---
+
+### Task 1: Branch Protection Rules
+
+- Enforced **pull request-based contributions** to the `main` branch
+- Enabled **required status checks** using CI
+- Prevented force pushes and direct commits
+
+ Screenshot:  
+[`docs/screenshots/branch_protection_rule.png`](docs/screenshots/branch_protection_rule.png)
+
+---
+
+### Task 2: Pull Request Template
+
+Created a reusable pull request template that auto-fills when contributors open PRs.  
+This ensures consistency and clarity in contributions.
+
+ File:  
+[`/.github/pull_request_template.md`](.github/pull_request_template.md)  
+ Screenshot:  
+[`docs/screenshots/pull_request_template.png`](docs/screenshots/pull_request_template.png)
+
+---
+
+### Task 3: CI Workflow with GitHub Actions
+
+- Built a GitHub Actions workflow (`ci.yml`) under `.github/workflows/`
+- Automatically runs tests on each push or pull request to `main`
+
+ Workflow file:  
+[`/.github/workflows/ci.yml`](.github/workflows/ci.yml)  
+ Screenshot of successful test run:  
+[`docs/screenshots/test_results_success.png`](docs/screenshots/test_results_success.png)
+
+---
+
+### Task 4: CI Status Badge in README
+
+Integrated a live status badge at the top of the README to reflect build/test status.
+
+ Badge:  
+[![Run Tests](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/actions/workflows/ci.yml/badge.svg)](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/actions/workflows/ci.yml)
+
+ Screenshot:  
+[`docs/screenshots/status_badge_in_readme.png`](docs/screenshots/status_badge_in_readme.png)
+
+
 
 
 
