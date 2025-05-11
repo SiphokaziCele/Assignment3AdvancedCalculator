@@ -147,7 +147,7 @@ This ensures consistency and clarity in contributions.
  File:  
 [`/.github/pull_request_template.md`](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/pull/12)  
  Screenshot:  
-[`docs/screenshots/pull_request_template.png`](docs/screenshots/pull_request_template.png)
+[`docs/screenshots/Pull_Request/pull_request.png`](docs/screenshots/Pull_Request/pull_request.png)
 
 ---
 
