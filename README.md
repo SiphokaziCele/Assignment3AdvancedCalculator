@@ -7,7 +7,7 @@ Links to:
 
 [Specifications.md](Specifications.md)
     
-[ARCHITECTURE.md](ARCHITECTURE.md)
+[Architecture.md](Architecture.md)
    
 [Reflections.md](Reflections.md)
 
@@ -37,7 +37,7 @@ Links to:
 
 [Domain_Model_Documentation.md](Domain_Model_Documentation.md) 
 
-[Class_Diagram.md](ClassDiagram.md) 
+[Class Diagram.md](ClassDiagram.md) 
 
 
 ## Pictures
@@ -45,7 +45,7 @@ Links to:
 
 [KanbanPic2.png](KanbanPic2.png)
 
-[KanbasFull.png](KanbasFull.png)
+[KanbanFull.png](KanbanFull.png)
 
 ### Activity Diagrams and explanations  
 This document provides detailed explanations and diagrams for various activity workflows within the system, covering the processes from user registration to encryption options.
