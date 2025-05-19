@@ -187,7 +187,7 @@ Integrated a live status badge at the top of the README to reflect build/test st
 ### 🔗 Contribution Files
 
 - [Voting Results.md](VotingResults.md) – Includes stats, issue responses, improvements from feedback, and future collaboration plans.  
-- [REFLECTION ENGAGEMENT.md](Refelctions.md) – A reflection on engaging with the open-source community, challenges, and learning outcomes.
+- [Reflections.md](Reflections.md) – A reflection on engaging with the open-source community, challenges, and learning outcomes.
 
 ### 💬 Contributor Support
 
