@@ -173,6 +173,35 @@ Integrated a live status badge at the top of the README to reflect build/test st
  Screenshot:  
 [`docs/screenshots/status_badge_in_readme.png`](docs/screenshots/status_badge_in_readme/Badge.png)
 
+---
+
+## 🧑‍🤝‍🧑 Assignment 14: Open Source Collaboration & Community Engagement
+
+### Community Stats
+
+- ⭐ **Stars Received**: 38  
+- 🍴 **Forks**: 31  
+- ✅ Good First Issues Tagged: 5+  
+- ✅ Feature Requests Tagged: 3+
+
+### 🔗 Contribution Files
+
+- [Voting Results.md](VotingResults.md) – Includes stats, issue responses, improvements from feedback, and future collaboration plans.  
+- [REFLECTION ENGAGEMENT.md](Refelctions.md) – A reflection on engaging with the open-source community, challenges, and learning outcomes.
+
+### 💬 Contributor Support
+
+- `good-first-issue` and `feature-request` labels were added to help guide contributors.
+- Improved documentation and tooltips based on user feedback.
+- Added Pull Request and Issue templates under `.github/` for consistent collaboration.
+
+### 🛠️ CI Badge (Above)
+
+Your project is CI-enabled and contributions are automatically tested via [GitHub Actions](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/actions).
+
+---
+
+
 
 
 
