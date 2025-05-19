@@ -88,3 +88,17 @@ One limitation was that Mermaid.js, while simple and readable, lacks advanced fe
 This exercise reinforced the importance of designing software systems with extensibility and maintainability in mind. By creating an abstract yet comprehensive model, future requirements like multi-user collaboration or advanced computation modules can be integrated with minimal structural changes. I also learned that revisiting earlier work—like user stories, functional requirements, and behavior diagrams—ensures that design decisions remain grounded in user and system needs.
 
 In conclusion, this assignment not only deepened my understanding of domain modeling and class diagrams but also illustrated the value of cohesive design in software engineering.
+
+## Assignment 14 Refelctions
+# Reflection on Open Source Engagement
+
+Engaging with the open-source community has been both eye-opening and rewarding. At first, I was unsure how others would perceive my Advanced Calculator System. However, seeing the project receive 38 stars and 31 forks reassured me that my effort, structure, and attention to detail were recognized.
+
+Through tagging issues as good-first-issue and feature-request, I made it easier for contributors to get involved. Watching other developers interact with my work, raise suggestions, and show interest made me feel like I was contributing to a broader ecosystem.
+
+One challenge I faced was learning how to structure and write clear issue descriptions for others. It made me think about my work from an outsider’s perspective. Additionally, handling GitHub Actions, templates, and badges taught me the importance of continuous integration in modern development.
+
+This experience made me realize that collaboration isn't always about code contribution. It includes clarity, openness, and appreciation for community feedback. Going forward, I aim to maintain this project actively and welcome more contributors with a stronger support framework, including documentation and contributor guidelines.
+
+Being part of an open-source community transforms a personal project into a shared vision. That is the true power of open collaboration.
+
