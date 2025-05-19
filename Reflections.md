@@ -89,7 +89,7 @@ This exercise reinforced the importance of designing software systems with exten
 
 In conclusion, this assignment not only deepened my understanding of domain modeling and class diagrams but also illustrated the value of cohesive design in software engineering.
 
-## Assignment 14 Refelctions
+## Assignment 14 Reflections
 # Reflection on Open Source Engagement
 
 Engaging with the open-source community has been both eye-opening and rewarding. At first, I was unsure how others would perceive my Advanced Calculator System. However, seeing the project receive 38 stars and 31 forks reassured me that my effort, structure, and attention to detail were recognized.
