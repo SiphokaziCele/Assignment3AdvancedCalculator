@@ -195,6 +195,11 @@ Integrated a live status badge at the top of the README to reflect build/test st
 - Improved documentation and tooltips based on user feedback.
 - Added Pull Request and Issue templates under `.github/` for consistent collaboration.
 
+### 🗺️ Roadmap  
+The roadmap outlines completed features, ongoing work, and planned enhancements for the Advanced Calculator System. It helps contributors and users understand the project’s direction and priorities.  
+
+[View Roadmap.md](ROADMAP.md)
+
 ### 🛠️ CI Badge (Above)
 
 Your project is CI-enabled and contributions are automatically tested via [GitHub Actions](https://github.com/SiphokaziCele/Assignment3AdvancedCalculator/actions).
