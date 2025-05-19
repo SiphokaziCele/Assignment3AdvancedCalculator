@@ -2,8 +2,8 @@
 
 ## Stars and Forks
 
-- Stars:
-- Forks: 
+- Stars: 38
+- Forks: 31
 
 # Contributors who voted:
 
